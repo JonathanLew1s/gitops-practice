@@ -1,0 +1,7 @@
+name: shop
+image: registry.example.com/shop:1.4.0
+replicas: 2
+resources:
+  limits:
+    cpu: 500m
+    memory: 256Mi
