@@ -5,3 +5,4 @@ resources:
   limits:
     cpu: 500m
     memory: 512Mi
+api_key: FAKE-TOKEN-DO-NOT-USE-1234
